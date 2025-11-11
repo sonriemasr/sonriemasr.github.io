@@ -1,0 +1,149 @@
+!DOCTYPE html
+html lang=es
+head
+  meta charset=UTF-8
+  meta name=viewport content=width=device-width, initial-scale=1.0
+  titleSonríe Más - Odontología Integraltitle
+  style
+    body {
+      font-family Arial, sans-serif;
+      margin 0;
+      padding 0;
+      background-color #f7f9fb;
+      color #333;
+    }
+
+    header {
+      background-color #0077b6;
+      color white;
+      padding 20px;
+      text-align center;
+    }
+
+    header h1 {
+      margin 0;
+      font-size 2em;
+    }
+
+    nav {
+      background-color #023e8a;
+      display flex;
+      justify-content center;
+      gap 20px;
+      padding 10px 0;
+    }
+
+    nav a {
+      color white;
+      text-decoration none;
+      font-weight bold;
+    }
+
+    nav ahover {
+      text-decoration underline;
+    }
+
+    section {
+      padding 40px 20px;
+      text-align center;
+    }
+
+    .servicios {
+      display flex;
+      flex-wrap wrap;
+      justify-content center;
+      gap 20px;
+      margin-top 30px;
+    }
+
+    .card {
+      background-color white;
+      border-radius 10px;
+      box-shadow 0 4px 8px rgba(0, 0, 0, 0.1);
+      width 250px;
+      padding 20px;
+    }
+
+    .card h3 {
+      color #0077b6;
+    }
+
+    footer {
+      background-color #023e8a;
+      color white;
+      text-align center;
+      padding 20px;
+      margin-top 40px;
+    }
+
+    .contacto {
+      background-color #caf0f8;
+      padding 30px;
+      border-radius 10px;
+      max-width 500px;
+      margin 0 auto;
+    }
+
+    .contacto a {
+      color #0077b6;
+      text-decoration none;
+      font-weight bold;
+    }
+  style
+head
+body
+
+  header
+    h1Sonríe Másh1
+    pOdontología Integral para toda la familiap
+  header
+
+  nav
+    a href=#inicioInicioa
+    a href=#serviciosServiciosa
+    a href=#contactoContactoa
+  nav
+
+  section id=inicio
+    h2Bienvenidos a Sonríe Másh2
+    pBrindamos atención odontológica integral con los más altos estándares de calidad y calidez humana.p
+  section
+
+  section id=servicios
+    h2Nuestros Serviciosh2
+    div class=servicios
+      div class=card
+        h3Odontología Generalh3
+        pPrevención, diagnóstico y tratamiento de problemas dentales comunes.p
+      div
+      div class=card
+        h3Ortodonciah3
+        pAlineamos tus dientes para lograr una sonrisa perfecta y funcional.p
+      div
+      div class=card
+        h3Estética Dentalh3
+        pBlanqueamiento, carillas y otros tratamientos para embellecer tu sonrisa.p
+      div
+      div class=card
+        h3Odontopediatríah3
+        pAtención especializada y amigable para los más pequeños del hogar.p
+      div
+    div
+  section
+
+  section id=contacto
+    h2Contáctanosh2
+    div class=contacto
+      pstrongDirecciónstrong Av. Los Álamos y Primera Transversal, Riobambap
+      pstrongTeléfonostrong 099 999 9999p
+      pstrongCorreostrong a href=mailtosonriemas.odontologia@gmail.comsonriemas.odontologia@gmail.comap
+      pstrongWhatsAppstrong a href=httpswa.me593999999999 target=_blankEnviar mensajeap
+    div
+  section
+
+  footer
+    p&copy; 2025 Sonríe Más Odontología Integral  Todos los derechos reservadosp
+  footer
+
+body
+html
